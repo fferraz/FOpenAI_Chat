@@ -1,5 +1,4 @@
 <!-- Comment -->
-<!-- Comment 3 -->
 
 <template>
     <div class="chatbox">
