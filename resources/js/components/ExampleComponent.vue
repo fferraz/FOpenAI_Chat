@@ -1,4 +1,4 @@
-<!-- Comment -->
+<!-- Comment 2 -->
 
 <template>
     <div class="chatbox">
